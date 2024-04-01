@@ -1,16 +1,4 @@
-# e_commerc_exem
+<p>
+  <img src="(https://github.com/shitalchauhan769/e_commerce_exam_app/assets/155465990/a9f89a57-6392-47c8-9656-9456dc0f18d8)"heithg=1000,"w=350""
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
